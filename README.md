@@ -12,4 +12,4 @@ npx serve .
 
 ## Deploy
 
-[salao-de-beleza-six.vercel.app](https://studio-noir-two.vercel.app/)
+[studio-noir-two.vercel.app](https://studio-noir-two.vercel.app/)
